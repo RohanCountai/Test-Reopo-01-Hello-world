@@ -4,5 +4,6 @@ public static void main (String[] args)
 {
 System.out.println("Hello JoyBoy");
 System.out.println("Hello Luffy");
+System.out.println("Hello zoro");
 }
 }
